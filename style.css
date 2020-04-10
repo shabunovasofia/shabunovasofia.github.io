@@ -1,0 +1,53 @@
+.menu__item{
+    display: inline-block;
+    
+    
+}
+.menu__href{
+    padding:10px;
+    margin:30px ;
+    font-family: sans-serif;
+    
+   color:  
+    #ffffff;
+    font-weight:bold;
+}
+
+
+.boom{font-family: sans-serif;
+    width: ;
+    text-align: center;
+    font-size: 20px;
+   
+    padding-left:200px;
+    padding-right:200px;
+
+ 
+
+} .nav{ text-align: center;
+    background: #4a76a8;
+    position: sticky;
+    top: 0;
+    
+    padding-top:5px;
+    padding-bottom: 5px;
+    width: 100%;
+   
+}
+h1{
+    color:#2b588b ;
+}
+h2{
+    color:#497cb6 ;
+}
+p{
+    color:#4279b8 ;
+    text-align: justify ;
+    text-indent: 20px;
+}
+body{
+    background-color: rgb(217, 217, 228);
+}
+
+  
+    
